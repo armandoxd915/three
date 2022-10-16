@@ -1,5 +1,5 @@
 # Three
-Ini Script Boleh Gw Record Ya Deck
+
 > Tata Cara Pakai Di Termux
 
 > Ketik Di termux 
