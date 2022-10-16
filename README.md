@@ -7,6 +7,7 @@ Ini Script Boleh Gw Record Ya Deck
 
 > 2.pkg install git
 
+
 > 3.pkg install php
 
 > 4.git clone https://github.com/armandoxd915 /Three
